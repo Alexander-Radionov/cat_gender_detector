@@ -1,0 +1,32 @@
+{
+    "Text classified, but no images were processed": [
+        "D:\\projects\\data\\texts\\1mln95f.txt",
+        "D:\\projects\\data\\texts\\1mlntli.txt",
+        "D:\\projects\\data\\texts\\1mlqepl.txt",
+        "D:\\projects\\data\\texts\\1mlqrgn.txt",
+        "D:\\projects\\data\\texts\\1mlr4ar.txt"
+    ],
+    "No cats mentioned or multiple cats mentioned": [
+        "D:\\projects\\data\\texts\\1mlnbxy.txt",
+        "D:\\projects\\data\\texts\\1mlngw4.txt",
+        "D:\\projects\\data\\texts\\1mlnhsx.txt",
+        "D:\\projects\\data\\texts\\1mlnjnr.txt",
+        "D:\\projects\\data\\texts\\1mlnosn.txt",
+        "D:\\projects\\data\\texts\\1mlnvzd.txt",
+        "D:\\projects\\data\\texts\\1mlnwf6.txt",
+        "D:\\projects\\data\\texts\\1mlnxht.txt",
+        "D:\\projects\\data\\texts\\1mlqcim.txt",
+        "D:\\projects\\data\\texts\\1mlqfn5.txt",
+        "D:\\projects\\data\\texts\\1mlqh9f.txt",
+        "D:\\projects\\data\\texts\\1mlqjac.txt",
+        "D:\\projects\\data\\texts\\1mlqlyc.txt",
+        "D:\\projects\\data\\texts\\1mlqqvr.txt",
+        "D:\\projects\\data\\texts\\1mlqr1c.txt",
+        "D:\\projects\\data\\texts\\1mlqtal.txt",
+        "D:\\projects\\data\\texts\\1mlqxrx.txt",
+        "D:\\projects\\data\\texts\\1mlqzcf.txt",
+        "D:\\projects\\data\\texts\\1mlr053.txt",
+        "D:\\projects\\data\\texts\\1mlr0s6.txt",
+        "D:\\projects\\data\\texts\\1mlr5im.txt"
+    ]
+}
