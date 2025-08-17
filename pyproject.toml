@@ -1,0 +1,20 @@
+[project]
+name = "cat-gender-detector"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai>=1.99.5",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.1",
+    "praw>=7.8.1",
+    "requests>=2.31.0",
+    "tqdm>=4.66.0",
+    "telethon>=1.36.0",
+    "supervision>=0.26.1",
+    "ultralytics>=8.3.176",
+    "vk-api>=11.10.0",
+    "langfuse>=3.2.3",
+]

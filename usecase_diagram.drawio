@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-10-12T22:03:23.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="wHQenJ1urkOgR0i0NrxY" version="21.6.5" type="device">
+  <diagram name="Страница 1" id="GI6-B9EMDyg1Z6QEqUUb">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kE9kvSraZiX1xXXwnjSZ-1" target="kE9kvSraZiX1xXXwnjSZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-4" value="Uploads" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE9kvSraZiX1xXXwnjSZ-3">
+          <mxGeometry x="0.1143" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-2" value="User image" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;" vertex="1" parent="1">
+          <mxGeometry x="313" y="270" width="64" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kE9kvSraZiX1xXXwnjSZ-5" target="kE9kvSraZiX1xXXwnjSZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-9" value="Takes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE9kvSraZiX1xXXwnjSZ-8">
+          <mxGeometry x="-0.1717" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kE9kvSraZiX1xXXwnjSZ-5" target="kE9kvSraZiX1xXXwnjSZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-12" value="Sends user Image" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE9kvSraZiX1xXXwnjSZ-11">
+          <mxGeometry x="0.1688" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kE9kvSraZiX1xXXwnjSZ-5" target="kE9kvSraZiX1xXXwnjSZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-18" value="Labeled image" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE9kvSraZiX1xXXwnjSZ-17">
+          <mxGeometry x="-0.0402" y="4" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-5" value="Bot UI" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/telegram-128.png" vertex="1" parent="1">
+          <mxGeometry x="281" y="380" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kE9kvSraZiX1xXXwnjSZ-10" target="kE9kvSraZiX1xXXwnjSZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-15" value="generates&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE9kvSraZiX1xXXwnjSZ-14">
+          <mxGeometry x="-0.087" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-10" value="CatGenderDetector" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.machine_learning;" vertex="1" parent="1">
+          <mxGeometry x="306" y="585" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kE9kvSraZiX1xXXwnjSZ-13" target="kE9kvSraZiX1xXXwnjSZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-19" value="Labeled image" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE9kvSraZiX1xXXwnjSZ-16">
+          <mxGeometry x="0.1048" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE9kvSraZiX1xXXwnjSZ-13" value="Cat gender&lt;br&gt;predictions" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="275" y="750" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

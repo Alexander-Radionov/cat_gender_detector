@@ -1,0 +1,9 @@
+python-telegram-bot
+vk-api
+openai
+opencv-python
+pandas
+ultralytics
+supervision
+python-dotenv
+tqdm
